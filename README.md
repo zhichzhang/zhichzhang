@@ -9,5 +9,6 @@ I am currently seeking **internship opportunities** in **full-stack development,
 Thanks for taking the time to visit my profile!
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhichzhang&layout=compact&theme=default&exclude_repo=csci-526-webgl-projects)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-hazel-three-68.vercel.app/api/top-langs/?username=zhichzhang&layout=compact&theme=default&exclude_repo=csci-526-webgl-projects)](https://github.com/anuraghazra/github-readme-stats)
+
 
