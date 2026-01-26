@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m **Zhicheng (Robinson) Zhang**. I earned my **Bachelor of Engineering in Electronic Information Science and Technology** from the School of Computer Science and Technology at **China University of Mining and Technology**, and I am currently pursuing my **Master of Science in Computer Science** at the **University of Southern California**.
+I’m **Zhicheng Zhang**. I earned my **Bachelor of Engineering in Electronic Information Science and Technology** from the School of Computer Science and Technology at **China University of Mining and Technology**, and I am currently pursuing my **Master of Science in Computer Science** at the **University of Southern California**.
 
 I am passionate about **Software Engineering** and **Game Development**, and I’m also an enthusiast of all things art—**painting, photography, handcraft, singing**, and **bodybuilding**.
 
