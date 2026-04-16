@@ -1,12 +1,15 @@
-# Hi there! 👋
+## Hi there 👋
 
-I’m **Zhicheng Zhang**. I earned my **Bachelor of Engineering in Electronic Information Science and Technology** from the School of Computer Science and Technology at **China University of Mining and Technology**, and I am currently pursuing my **Master of Science in Computer Science** at the **University of Southern California**.
+I’m Zhicheng Zhang, a Master’s student in Computer Science at the University of Southern California, with a background in Electronic Information Science and Technology.
 
-I am passionate about **Software Engineering** and **Game Development**, and I’m also an enthusiast of all things art—**painting, photography, handcraft, singing**, and **bodybuilding**.
+My work focuses on **backend and full-stack engineering**, especially around **distributed systems, data pipelines, and scalable system design**. I’ve built systems like **event-driven pipelines, ingestion frameworks, and telemetry infrastructure** using FastAPI, Node.js, PostgreSQL, Redis, and Kafka.
 
-I am currently seeking **internship opportunities** in **full-stack development, game development, front-end, or back-end engineering**. If you have or know of any opportunities in **California, the United States, or nearby locations**, I would be glad to hear from you.  
+On the side, my technical taste leans toward **game systems and 3D graphics & rendering 🎮**, particularly where **real-time interaction meets scalable backend infrastructure**.
 
-Thanks for taking the time to visit my profile!
+Outside of engineering, I enjoy **fitness 💪, drawing 🎨, and writing ✍️**, which shape how I think about discipline, aesthetics, and expression.
+
+I’m currently looking for **Summer 2026 internships**, and planning to pursue **new grad full-time roles starting late 2026**, across **backend, full-stack, and game engineering** 🚀
+
 
 ---
 [![Top Langs](https://github-readme-stats-hazel-three-68.vercel.app/api/top-langs/?username=zhichzhang&layout=compact&theme=default&exclude_repo=csci-526-webgl-projects)](https://github.com/anuraghazra/github-readme-stats)
