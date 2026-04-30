@@ -12,6 +12,6 @@ I’m currently looking for **Summer 2026 internships**, and planning to pursue 
 
 
 ---
-[![Top Langs](https://github-readme-stats-hazel-three-68.vercel.app/api/top-langs/?username=zhichzhang&layout=compact&theme=default&exclude_repo=csci-526-webgl-projects)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-hazel-three-68.vercel.app/api/top-langs/?username=zhichzhang&layout=compact&theme=default&exclude_repo=csci-526-webgl-projects,my-sites)](https://github.com/anuraghazra/github-readme-stats)
 
 
